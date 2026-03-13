@@ -33,6 +33,10 @@ Manual Aula 05
 https://drive.google.com/file/d/19hqohe25j7nbzRu26whvVsYVySbYIHuF/view?usp=drive\_link
 
 
+Manual Aula 06
+
+https://drive.google.com/file/d/1DMO8k4ZCICFc43hf74SER6K_depIjQVx/view?usp=drive_link
+
 
 Script DBA
 
@@ -79,4 +83,10 @@ https://www.youtube.com/watch?v=NUQ77T8vUyU\&t=51s
 Vídeo Aula 05
 
 https://www.youtube.com/watch?v=jz\_rp\_J6xFw
+
+
+
+Vídeo Aula 05
+
+https://www.youtube.com/watch?v=iDyZwVcm_dk
 
