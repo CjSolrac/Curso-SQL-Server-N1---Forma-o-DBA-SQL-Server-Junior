@@ -25,6 +25,13 @@ https://drive.google.com/file/d/1DMO8k4ZCICFc43hf74SER6K_depIjQVx/view?usp=drive
 Manual Aula 07
 https://drive.google.com/file/d/1C3jkj_GI3xgUshr14RXXuVUc3Xwhe8K7/view?usp=drive_link
 
+Manual Aula 07
+https://drive.google.com/file/d/1C3jkj_GI3xgUshr14RXXuVUc3Xwhe8K7/view?usp=drive_link
+
+Manual Aula 07
+https://drive.google.com/file/d/1CIXyY5PCuDgGPjtmfwNCNirKUxE6oODe/view?usp=drive_link
+
+
 
 Script DBA
 https://drive.google.com/file/d/1KBd159-6WzktKztXG\_fLQXsxCGIUPffN/view?usp=drive\_link
@@ -56,3 +63,6 @@ https://www.youtube.com/watch?v=iDyZwVcm_dk&t=35s
 
 Vídeo Aula 07
 https://www.youtube.com/watch?v=gikFMhDS80U&t=19s
+
+Vídeo Aula 08
+https://www.youtube.com/watch?v=4-BDkkZCzOI
