@@ -37,6 +37,9 @@ https://drive.google.com/file/d/1JveSR4tJz9yv0ctnm7gqU1Yvl8a2C5d1/view?usp=drive
 Manual Aula 09
 https://drive.google.com/file/d/1JveSR4tJz9yv0ctnm7gqU1Yvl8a2C5d1/view?usp=drive_link
 
+Manual Aula 10
+https://drive.google.com/file/d/1L43azDCYeZcm_RCe07pZ41ksRv0O56U9/view?usp=drive_link
+
 
 Script DBA
 https://drive.google.com/file/d/1KBd159-6WzktKztXG_fLQXsxCGIUPffN/view?usp=drive_link
@@ -45,9 +48,8 @@ Scripts
 https://drive.google.com/file/d/1p5vp6_wMgc9h4rHmXznuUKiq-FEREenw/view?usp=drive_link
 
 Query
-https://drive.google.com/file/d/1yJRJSAwXbToLjuQxoau98xC2nG6frQxp/view?usp=drive\_link
-
 https://drive.google.com/file/d/1yJRJSAwXbToLjuQxoau98xC2nG6frQxp/view?usp=drive_link
+
 
 Vídeo Aula 01
 https://www.youtube.com/watch?v=YrUaPdM\_O6s
@@ -75,3 +77,6 @@ https://www.youtube.com/watch?v=4-BDkkZCzOI
 
 Vídeo Aula 09
 https://www.youtube.com/watch?v=eQA5pqOSILg
+
+Vídeo Aula 10
+https://www.youtube.com/watch?v=6oHtOxOCq84
