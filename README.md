@@ -40,6 +40,9 @@ https://drive.google.com/file/d/1JveSR4tJz9yv0ctnm7gqU1Yvl8a2C5d1/view?usp=drive
 Manual Aula 10
 https://drive.google.com/file/d/1L43azDCYeZcm_RCe07pZ41ksRv0O56U9/view?usp=drive_link
 
+Manual Aula 11
+https://drive.google.com/file/d/1gUgjERqBffle4c58b9dnVz9GLFqgCc9P/view?usp=drive_link
+
 
 Script DBA
 https://drive.google.com/file/d/1KBd159-6WzktKztXG_fLQXsxCGIUPffN/view?usp=drive_link
@@ -50,6 +53,8 @@ https://drive.google.com/file/d/1p5vp6_wMgc9h4rHmXznuUKiq-FEREenw/view?usp=drive
 Query
 https://drive.google.com/file/d/1yJRJSAwXbToLjuQxoau98xC2nG6frQxp/view?usp=drive_link
 
+Importação de Arquivos
+https://drive.google.com/file/d/1qtjnV9pekYsN3HvwenGgs_EsSDxQZyyg/view?usp=drive_link
 
 Vídeo Aula 01
 https://www.youtube.com/watch?v=YrUaPdM\_O6s
@@ -80,3 +85,6 @@ https://www.youtube.com/watch?v=eQA5pqOSILg
 
 Vídeo Aula 10
 https://www.youtube.com/watch?v=B45ZEE-3kG0
+
+Vídeo Aula 11
+https://www.youtube.com/watch?v=YarCPyeYGAE
